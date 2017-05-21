@@ -1,11 +1,9 @@
 // @flow
 
-import firstAction from './first-action';
-import secondAction from './second-action';
+import phoneticFor from './phonetic-for';
 
 const actionMap = new Map();
 
-actionMap.set('first-action', firstAction);
-actionMap.set('second-action', secondAction);
+actionMap.set('phonetic-for', phoneticFor);
 
 export default actionMap;
