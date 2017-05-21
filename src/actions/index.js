@@ -1,3 +1,5 @@
+// @flow
+
 import firstAction from './first-action';
 import secondAction from './second-action';
 
