@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`phonetic-for should generate a correct response 1`] = `"The phonetic for the letter b is bravo"`;
+
+exports[`phonetic-for should generate a correct response 2`] = `"The phonetic for the letter c is charlie"`;

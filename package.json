@@ -1,5 +1,6 @@
 {
     "name": "learn-phonetic-google-assistant",
+    "private": true,
     "version": "0.0.0",
     "description": "Google Assistant skill to aid in learning the phonetic alphabet",
     "main": "dist/index.js",
