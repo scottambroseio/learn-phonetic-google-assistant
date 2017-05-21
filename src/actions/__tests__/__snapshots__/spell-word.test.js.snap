@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`spell-word should generate a correct response 1`] = `"The spelling of cat is charlie alfa tango"`;
+
+exports[`spell-word should generate a correct response 2`] = `"The spelling of dandelion is delta alfa november delta echo lima india oscar november"`;
