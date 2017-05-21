@@ -1,9 +1,9 @@
 // @flow
 
-const secondAction = require('../second-action');
+import secondAction from '../second-action';
 
 describe('second-action', () => {
   it('should not error', () => {
-    expect(secondAction).not.toThrow();
+    expect(() => secondAction({ ask: () => {} })).not.toThrow();
   });
 });

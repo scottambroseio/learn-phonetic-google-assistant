@@ -1,5 +1,5 @@
 // @flow
 
-module.exports = (/*app*/) => {
-  // handle first-action
+export default (app: any) => {
+  app.ask('first-action');
 };
